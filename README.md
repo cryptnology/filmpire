@@ -1,6 +1,6 @@
 # Filmpire
 
-An AI powered movie app that allows you to search for the latest movies via categories, genres or a search bar and is fully responsive with the choice of using a dark or light theme. You can also create / log in to your profile where can see all your favourite and watchlisted movies. The app is built using React, Redux, React Router, Alan AI, Axios, Material UI and the TMDB api.
+An AI powered movie app that allows you to search for the latest movies via categories, genres or a search bar and is fully responsive with the choice of using a dark or light theme. You can also create / log in to your profile where can see all your favourite and watchlisted movies. The app is built using React, Redux, React Router, Alan AI, Axios, Material UI and the TMDB API.
 
 <img width="1717" alt="filmpire" src="https://user-images.githubusercontent.com/85605968/233777017-aed32ff5-2824-4bce-a30f-e41cb2611f1b.png">
 
