@@ -10,7 +10,7 @@ After cloning or downloading the repo run `yarn` or `npm install` to install the
 
 ## Usage
 
-Please visit the [Filmpire](https://filmpire-omega.vercel.app) website and search for your favourite movies to your heart desire. When using the AI here are the commands you can use.
+Please visit the [Filmpire](https://filmpire-omega.vercel.app) website and search for your favourite movies to your heart's desire. When using the AI here are the commands you can use.
 
 ```
 'What does this app do?',
